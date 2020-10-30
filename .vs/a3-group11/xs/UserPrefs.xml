@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2A3479D0-383F-D458-1432-8C7D8577B617}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/controller.cs">
+    <Files>
+      <File FileName="Assets/CSV/Saved_data.csv" Line="64" Column="1" />
+      <File FileName="Assets/scripts/controlloer.cs" Line="13" Column="36" />
+      <File FileName="Assets/scripts/characterPriest.cs" Line="14" Column="38" />
+      <File FileName="Assets/scripts/boss.cs" Line="21" Column="1" />
+      <File FileName="Assets/scripts/character.cs" Line="19" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="a3-group11" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="controller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="89491771-f1af-442a-a85f-3766841bceb1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
